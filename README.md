@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Joshua Swick.
+- 👀 I’m interested in Software Craftsmanship and Agile as it was meant to be.
+- 🌱 I’m currently learning Svelte and SvelteKit.
+- 💞️ I’m looking to collaborate on developer productivity tooling for Go, Svelte, and related technologies.
+- 📫 How to reach me: [🐦 @joshuaswickirl](https://twitter.com/intent/tweet?text=Hi%20%40joshuaswickirl%20!%20%F0%9F%91%8B%20), [✉️ joshuaswickirl@gmail.com](mailto:joshuaswickirl@gmail.com)
