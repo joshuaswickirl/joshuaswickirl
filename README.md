@@ -4,6 +4,6 @@
 - that empiricism is in our nature.
 
 I would be thrilled to connect with like-minded folks who strive to make an impact.
-Reach me on Twitter [🐦 @joshuaswickirl]([https://mastodon.social/@joshuaswickirl](https://twitter.com/joshuaswickirl)) or by email [✉️ joshuaswickirl@gmail.com](mailto:joshuaswickirl@gmail.com).
+Reach me on Twitter [🐦 @joshuaswickirl](https://twitter.com/joshuaswickirl) or by email [✉️ joshuaswickirl@gmail.com](mailto:joshuaswickirl@gmail.com).
 
 Check out my personal website at https://joshuaswick.com.
