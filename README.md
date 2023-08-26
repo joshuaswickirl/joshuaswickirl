@@ -1,3 +1,6 @@
-Humans are curious, creative, and critical. We are greater than the sum of our parts. Our potential is endless.
+Humans are curious and creative.  
+We are greater than the sum of our parts.  
+If we choose to put in the effort.  
+Our potential is limitless.  
 
-Check out my personal website at https://joshuaswick.com.
+ https://joshuaswick.com.
